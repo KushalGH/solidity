@@ -1,2 +1,6 @@
-# solidity
-Will be practicing solidity code from https://solidity.readthedocs.io
+# SOLIDITY
+
+>> Will be practicing solidity code with security considerations
+>> reference: https://solidity.readthedocs.io 
+
+
