@@ -1,4 +1,4 @@
-pragma solidity ^0.4.20;
+pragma solidity ^0.4.25;
 
 contract Coin {
     
@@ -6,7 +6,7 @@ contract Coin {
     mapping(address => uint256) balances;
     event Sent(address from, address to, uint256 amount);
     
-    function Coin() public {
+    constructor Coin() public {
         minter = msg.sender;
     }
     

@@ -1,7 +1,7 @@
 //The keyword pragma is called that way because, in general, pragmas are 
 //instructions for the compiler about how to treat the source code
 
-pragma solidity ^0.4.24;
+pragma solidity ^0.4.25;
 
 contract SimpleStorage { 
     
